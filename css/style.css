@@ -9,7 +9,11 @@ table {
 .label-name {
     width: 100px;
     font-size: 20px;
+    padding: 4px;
 }
 .label-mandatory {
     color: firebrick;
+}
+#lblLastName {
+    color: darkgreen !important;
 }
